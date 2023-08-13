@@ -59,3 +59,10 @@ console.log(1 + (2 - 3) * 2)
 // alert, console , prompt, document.write
 // Variables, data types, rules
 // Math expressions
+
+
+
+// Push code on github Steps
+// git add .
+// git commit -m "message"
+// git push
